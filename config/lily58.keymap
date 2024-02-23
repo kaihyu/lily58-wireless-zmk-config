@@ -44,11 +44,11 @@
 
         Nav {
             bindings = <
-&trans  &kp F1        &kp F2        &kp F3            &kp F4          &kp F5                                  &kp F6                 &kp F7       &kp F8        &kp F9         &kp F10  &kp F11
-&trans  &trans        &trans        &kp F8            &kp LS(F8)      &kp LEFT_PARENTHESIS                    &kp RIGHT_PARENTHESIS  &kp PAGE_UP  &kp UP_ARROW  &kp PAGE_DOWN  &trans   &kp F12
-&trans  &kp LEFT_ALT  &kp LEFT_WIN  &kp LEFT_CONTROL  &kp LEFT_SHIFT  &kp LEFT_BRACE                          &kp RIGHT_BRACE        &kp LEFT     &kp DOWN      &kp RIGHT      &trans   &trans
-&trans  &trans        &trans        &mkp MB4          &mkp MB5        &kp LEFT_BRACKET      &trans    &trans  &kp RIGHT_BRACKET      &kp HOME     &kp END       &trans         &trans   &trans
-                                    &trans            &trans          &trans                &trans    &trans  &trans                 &trans       &trans
+&trans      &kp F1        &kp F2        &kp F3            &kp F4          &kp F5                                  &kp F6                 &kp F7       &kp F8        &kp F9         &kp F10  &kp F11
+&bt BT_PRV  &bt BT_NXT    &bt BT_CLR    &kp F8            &kp LS(F8)      &kp LEFT_PARENTHESIS                    &kp RIGHT_PARENTHESIS  &kp PAGE_UP  &kp UP_ARROW  &kp PAGE_DOWN  &trans   &kp F12
+&trans      &kp LEFT_ALT  &kp LEFT_WIN  &kp LEFT_CONTROL  &kp LEFT_SHIFT  &kp LEFT_BRACE                          &kp RIGHT_BRACE        &kp LEFT     &kp DOWN      &kp RIGHT      &trans   &trans
+&trans      &trans        &trans        &mkp MB4          &mkp MB5        &kp LEFT_BRACKET      &trans    &trans  &kp RIGHT_BRACKET      &kp HOME     &kp END       &trans         &trans   &trans
+                                        &trans            &trans          &trans                &trans    &trans  &trans                 &trans       &trans
             >;
         };
 
